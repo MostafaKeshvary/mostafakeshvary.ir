@@ -913,6 +913,11 @@ blockquote:before,
     border-bottom: 5px solid #0e0f10;
 }
 
+.header-main .logo img {
+    max-width: 75%;
+    height: auto;
+}
+
 .header-mobile {
     position: fixed;
     top: 0;
